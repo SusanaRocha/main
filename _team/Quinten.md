@@ -2,7 +2,7 @@
 title: "Quinten Coucke"
 collection: team
 header:
-  teaser: quinten.png
+  teaser: Quinten.png
 tags: phd
 tagline: co-promotor
 date: 2018-10-01
