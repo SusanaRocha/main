@@ -15,7 +15,7 @@ email: laurens.dhuys@kuleuven.be
 
 <h2> Publications </h2>
 {% for post in site.publications reversed %}
-  {% if post.authors contains 'Laurens D'Huys' %}
+  {% if post.authors contains 'Laurens D Huys' %}
     {% include archive-single-pub.html %}
   {% endif %}
 {% endfor %}
