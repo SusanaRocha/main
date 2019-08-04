@@ -18,10 +18,10 @@
   images:
     - src: /images/PIC-STED.jpg
       alt: Structure of biomimetic hydrogel
-    - src: /images/TOC-v3-01.png
-    - src: /images/organoid3.png
+    - src: /images/TOC-v3-01.jpg
+    - src: /images/organoid3.jpg
       alt: Fluorescence imaging of organoids
-    - src: /images/super-res-comp.png
+    - src: /images/super-res-comp.jpg
       alt: Super-resolution fluorescence imaging
 
   settings:
